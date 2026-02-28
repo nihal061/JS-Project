@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  background-color: lightseagreen;
+  color: white;
+}
+
+.box-container {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  height: 200px;
+  width: 200px;
+  border: 7px solid white;
+  margin: 2.5rem;
+  border-radius: 20%;
+}
+
+.one {
+  background-color: chocolate;
+}
+
+.two {
+  background-color: cadetblue;
+}
+
+.three {
+  background-color: burlywood;
+}
+
+.four {
+  background-color: aquamarine;
+}
+
+.flash {
+  background-color: black;
+}
